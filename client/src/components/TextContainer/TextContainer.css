@@ -1,0 +1,40 @@
+.textContainer {
+  color: white;
+  height: 60%;
+
+  background-color: #1b1b1b;
+  width: 15%;
+  text-align: center;
+  text-align: center;
+}
+
+.activeContainer {
+  display: flex;
+  align-items: center;
+  margin-bottom: 50%;
+  margin-left: 2rem;
+}
+
+.activeItem {
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.activeContainer img {
+  padding-left: 10px;
+}
+
+.textContainer h1 {
+  margin-bottom: 0px;
+}
+h1 {
+  background-color: #323949;
+  height: 3rem;
+}
+
+@media (min-width: 320px) and (max-width: 1200px) {
+  .textContainer {
+    display: none;
+  }
+}
