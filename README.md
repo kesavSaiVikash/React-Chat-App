@@ -29,4 +29,4 @@ This is a Real-time Chat Application. Chat with your friends and see who is onli
 
 
 # Authors
-### 1. [Kesav Sai Vikash Bollam (Myself)]()
+### 1. [Kesav Sai Vikash Bollam (Myself)](https://github.com/kesavSaiVikash/React-Chat-App)
